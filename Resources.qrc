@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>bold.jpg</file>
+        <file>new_file.png</file>
+        <file>open_file.png</file>
+        <file>paste.png</file>
+        <file>save_as_file.svg</file>
+        <file>save_file.png</file>
+        <file>subscript.png</file>
+        <file>superscript.png</file>
+        <file>undo.png</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>redo.png</file>
+        <file>normalize.png</file>
+        <file>about_me.png</file>
+    </qresource>
+</RCC>
